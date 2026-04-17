@@ -1,0 +1,10 @@
+Package: miPrimerPaqueteR
+Type: Package
+Title: Mi primer paquete en R
+Version: 0.1.0
+Author: Daniela Navarrete
+Maintainer: Daniela Navarrete <daniela.navarrete.20241@americanbusiness.college>
+Description: Paquete básico con funciones simples.
+License: MIT
+Encoding: UTF-8
+LazyData: true
